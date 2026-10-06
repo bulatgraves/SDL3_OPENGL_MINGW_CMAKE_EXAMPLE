@@ -1,0 +1,3 @@
+C:/Users/777/Desktop/SublimeText Projects/Project1/dist/win/CMakeFiles/app.dir
+C:/Users/777/Desktop/SublimeText Projects/Project1/dist/win/CMakeFiles/edit_cache.dir
+C:/Users/777/Desktop/SublimeText Projects/Project1/dist/win/CMakeFiles/rebuild_cache.dir
